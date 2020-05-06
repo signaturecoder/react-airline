@@ -1,0 +1,32 @@
+{
+  "passengers": [
+    {
+      "pId": 1,
+      "pName": "sanu",
+      "pAddress": "banglore",
+      "pFlightName": "hjsdkj",
+      "passport": {
+        "passportNum": "abc123",
+        "expiry_date": "jsdwe2"
+      },
+      "from": "delhi",
+      "to": "banglore",
+      "seat_number": "1A",
+      "ancillary_services": "fdmsf"
+    },
+    {
+      "pId": 2,
+      "pName": "sanu 2",
+      "pAddress": "Chennai",
+      "pFlightName": "hjsdkj",
+      "passport": {
+        "passportNum": "abc123",
+        "expiry_date": "jsdwe2"
+      },
+      "from": "Kanpur",
+      "to": "banglore",
+      "seat_number": "2A",
+      "ancillary_services": "fdmsf"
+    }
+  ]
+}
